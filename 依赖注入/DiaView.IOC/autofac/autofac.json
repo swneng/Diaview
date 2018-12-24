@@ -1,0 +1,44 @@
+{
+  "defaultAssembly": "Ioc.Autofac",
+  "components": [
+    {
+      "type": "Ioc.Autofac.Test.AutofacLoaderTest, Ioc.Autofac",
+      "services": [
+        {
+          "type": "Ioc.Autofac.Test.IAutofacLoaderTest"
+        }
+      ],
+      "injectProperties": true
+    }
+  ]
+}
+
+//{
+//  "components": [{
+//    "type": "Autofac.Example.Calculator.Addition.Add, Autofac.Example.Calculator.Addition",
+//    "services": [{
+//      "type": "Autofac.Example.Calculator.Api.IOperation"
+//    }, {
+//      "type": "Autofac.Example.Calculator.Api.IAddOperation",
+//      "key": "add"
+//    }],
+//    "autoActivate": true,
+//    "injectProperties": true,
+//    "instanceScope": "per-dependency",
+//    "metadata": [{
+//      "key": "answer",
+//      "value": 42,
+//      "type": "System.Int32, mscorlib"
+//    }],
+//    "ownership": "external",
+//    "parameters": {
+//      "places": 4
+//    },
+//    "properties": {
+//      "DictionaryProp": {
+//        "key": "value"
+//      },
+//      "ListProp": [1, 2, 3, 4, 5]
+//    }
+//  }]
+//}

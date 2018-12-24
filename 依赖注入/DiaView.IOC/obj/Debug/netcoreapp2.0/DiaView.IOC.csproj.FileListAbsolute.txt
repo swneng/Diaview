@@ -1,0 +1,8 @@
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\bin\Debug\netcoreapp2.0\DiaView.IOC.deps.json
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\bin\Debug\netcoreapp2.0\DiaView.IOC.dll
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\obj\Debug\netcoreapp2.0\DiaView.IOC.csproj.CoreCompileInputs.cache
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\obj\Debug\netcoreapp2.0\DiaView.IOC.AssemblyInfoInputs.cache
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\obj\Debug\netcoreapp2.0\DiaView.IOC.AssemblyInfo.cs
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\bin\Debug\netcoreapp2.0\DiaView.IOC.pdb
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\obj\Debug\netcoreapp2.0\DiaView.IOC.dll
+E:\2.工作\2.open source code\Diaview\依赖注入\DiaView.IOC\obj\Debug\netcoreapp2.0\DiaView.IOC.pdb

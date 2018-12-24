@@ -1,0 +1,17 @@
+D:\Samples\WCF_Sercurity\WSHttpBinding_Code\WCFService\bin\Debug\WCFService.pdb
+D:\Samples\WCF_Sercurity\WSHttpBinding_Code\WCFService\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WCF_Sercurity\WSHttpBinding_Code\WCFService\obj\Debug\WCFService.pdb
+D:\samples\WCF_Sercurity\WSHttpBinding_Code\WCFService\bin\Debug\WCFService.exe
+D:\samples\WCF_Sercurity\WSHttpBinding_Code\WCFService\obj\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\WSHttpBinding\WCFService\obj\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\WSHttpBinding\WCFService\obj\Debug\WCFService.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding\WCFService\obj\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding\WCFService\obj\Debug\WCFService.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding\WCFService\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WCF_Sercurity\basicHttpBinding\WCFService\bin\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding\WCFService\bin\Debug\WCFService.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding_None\WCFService\obj\Debug\ResolveAssemblyReference.cache
+D:\Samples\WCF_Sercurity\basicHttpBinding_None\WCFService\obj\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding_None\WCFService\bin\Debug\WCFService.exe
+D:\Samples\WCF_Sercurity\basicHttpBinding_None\WCFService\bin\Debug\WCFService.pdb
+D:\Samples\WCF_Sercurity\basicHttpBinding_None\WCFService\obj\Debug\WCFService.pdb

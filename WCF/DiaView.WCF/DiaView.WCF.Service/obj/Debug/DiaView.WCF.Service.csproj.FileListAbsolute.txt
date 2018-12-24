@@ -1,0 +1,6 @@
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\obj\Debug\DiaView.WCF.Service.csproj.CoreCompileInputs.cache
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\bin\Debug\DiaView.WCF.Service.dll.config
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\bin\Debug\DiaView.WCF.Service.dll
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\bin\Debug\DiaView.WCF.Service.pdb
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\obj\Debug\DiaView.WCF.Service.dll
+E:\2.工作\2.open source code\Diaview\WCF\DiaView.WCF\DiaView.WCF.Service\obj\Debug\DiaView.WCF.Service.pdb
